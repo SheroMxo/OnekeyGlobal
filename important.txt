@@ -1,0 +1,12 @@
+Go to the following location:
+C:\Program Files (x86)\Steam\config\depotcache
+
+Delete the manifest file associated with the game.
+Navigate to this location:
+C:\Program Files (x86)\Steam\config\stplug-in
+
+Depotcache file
+C:\program files (x86)\steam\depotcache
+
+Delete the LUA/ST file associated with the game.
+Restart Steam.
